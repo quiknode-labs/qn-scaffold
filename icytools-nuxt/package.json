@@ -1,0 +1,16 @@
+{
+  "name": "icytools-nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt dev",
+    "start": "nuxt start",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3",
+    "vercel": "^25.1.0"
+  }
+}
