@@ -8,6 +8,7 @@
 * [Get API Key](#get-api-key)
 * [Copy Environment Variable Sample](#copy-environment-variable-sample)
 * [Start Development Server](#start-development-server)
+* [Deploy to Vercel](#deploy-to-vercel)
 * [Live Example](#live-example)
 
 [`icytools-scaffold`](https://github.com/quiknode-labs/icytools-scaffold/) is a monorepo containing different frontend applications that accesses the [developers.icy.tools](https://developers.icy.tools/) API through GraphQL requests.
@@ -38,6 +39,12 @@ cp .env.sample .env.local
 
 ```bash
 yarn dev
+```
+
+## Deploy to Vercel
+
+```bash
+yarn vercel --env API_KEY=YOUR_API_KEY_HERE
 ```
 
 ## Live Example
