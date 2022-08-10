@@ -4,7 +4,7 @@
 
 ## Outline
 
-* [Clone Scaffold Repo and Install Dependencies](#clone-scaffold-repo-and-install-dependencies)
+* [Clone Scaffold Repo and Install Dependencies](#clone-repo-and-install-dependencies)
 * [Get API Key](#get-api-key)
 * [Copy Environment Variable Sample](#copy-environment-variable-sample)
 * [Start Development Server](#start-development-server)

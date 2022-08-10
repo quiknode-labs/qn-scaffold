@@ -4,13 +4,11 @@
 
 ## Outline
 
-* [Clone Scaffold Repo and Install Dependencies](#clone-scaffold-repo-and-install-dependencies)
+* [Clone Scaffold Repo and Install Dependencies](#clone-repo-and-install-dependencies)
 * [Get API Key](#get-api-key)
 * [Copy Environment Variable Sample](#copy-environment-variable-sample)
 * [Start Development Server](#start-development-server)
 * [Live Example](#live-example)
-
-## Setup
 
 [`icytools-scaffold`](https://github.com/quiknode-labs/icytools-scaffold/) is a monorepo containing different frontend applications that accesses the [developers.icy.tools](https://developers.icy.tools/) API through GraphQL requests.
 
