@@ -5,12 +5,12 @@
   "license": "MIT",
   "scripts": {
     "dev": "nuxt dev",
-    "start": "nuxt start",
     "build": "nuxt build",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.3",
-    "vercel": "^25.1.0"
+    "vercel": "^28.4.5"
   }
 }
